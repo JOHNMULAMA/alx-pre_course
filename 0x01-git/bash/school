@@ -1,7 +1,3 @@
-echo"school"
-
-
-
-
-
+echo "The school is open!"
+- C-x C-s
 
